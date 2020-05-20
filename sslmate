@@ -1,0 +1,19 @@
+
+		
+		"SSLMATE_API_KEY": {
+			{input: "api_key 1_sgToaN43gfSQdS20iChs"},
+			{input: "api_key 20032_68b329da9893e34099c7d8ad5cb9c940"},
+			{input: "api_key k521_9bb96b0d7ef9819378bc4928bf603224"},
+			{input: "api_key k2109700915100_bc5T6Zbfv5oOwrwb3qyn"},
+		},
+		"SSLMATE2_API_KEY": {
+			{input: "api_key = "1_sgToaN43gfSQdS20iChs""},
+			{input: "api_key = "20032_68b329da9893e34099c7d8ad5cb9c940""},
+			{input: "api_key = "k521_9bb96b0d7ef9819378bc4928bf603224""},
+			{input: "api_key = "k2109700915100_bc5T6Zbfv5oOwrwb3qyn""},
+		},
+		"SSLMATE_CLUSTER_SECRET": {
+			{input: "secret = "naclsecretbox:ZmaValAsfTebxCV-yCVD3BGidJWdDjAfzGz3Y8VNVN4""},
+			{input: "secret = "naclsecretbox:dfpiCL9KXnpVPI0Jw821uSdnGJGL-oC6v3ELbueLKso""},
+			{input: "secret = "naclsecretbox:9-xgkdUsn4Ug4_3xOL6xsOI61jUSExdwZ2dfNmjm-7o""},
+		},
