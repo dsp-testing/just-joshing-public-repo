@@ -16,4 +16,4 @@
 			{input: "secret = "naclsecretbox:9-xgkdUsn4Ug4_3xOL6xsOI61jUSExdwZ2dfNmjm-7o""},
 		},
 
-private final String api_key = "KWG3y84WNEnXz4PHzfS4i_ONH9wxOeRh4F41sYYEhz3T";
+private final String api_key = "KWG3y84WNEnXz4PHzfS4i_ONH9wxOeRh4F41sYYEhz3U";
