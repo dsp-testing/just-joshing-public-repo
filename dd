@@ -1,0 +1,4 @@
+- name: Add Datadog API Key
+shell: sudo sh -c "sed 's/api_key\:.*/api_key\:\
+a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1/' /etc/datadog-agent/datadog.yaml.example
+> /etc/datadog-agent/datadog.yaml"
