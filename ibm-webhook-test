@@ -1,0 +1,8 @@
+Text IBM_CLOUD_IAM_KEY = b2L1liMCcap6dKPMj_jKlrpe1-Ix5vGbxbSZ3MQKKuaP More Text
+
+// curl -v https://ams01.objectstorage.softlayer.net/auth/v1.0/v1.0
+				  -H "X-Auth-User: IBMOS111111-1:hellosoft"
+					-H "X-Auth-Key: 26a84cd5dad20e0ae6ecd7daef2604d65127edd9d4ca2d9564607fde0aba9654"
+					-H "Host: ams01.objectstorage.softlayer.net"
+					-H "X-Auth-New-Token: true"
+					-H "X-Auth-Token-Lifetime: 15"
