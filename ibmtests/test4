@@ -2,4 +2,4 @@ sl-user = 'test2@testy.test'
 
   authenticator = IAMAuthenticator('abcd1234abcd1234abcd1234ABCD1234ABCD1234--__')
 
-knife[:softlayer_api_key]  = '26a84cd5dad20e0ae6ecd7daef2604d65127edd9d4ca2d9564607fde0bba9655'
+knife[:softlayer_api_key]  = '26a84cd5dad20e0ae6ecd7daef2614d65127edd9d4ca2d9564607fde0bba9655'
