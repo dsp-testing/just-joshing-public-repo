@@ -1,3 +1,3 @@
---softlayer-username = test@testy.test
+username = test@testy.test
 
-'26a84cd5dad20e0ae6ecd7daef2604d65127edd9d4ca2d9564607fde0aba9654'
+softlayer = '26a84cd5dad20e0ae6ecd7daef2604d65127edd9d4ca2d9564607fde0aba9654'
